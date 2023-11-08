@@ -1,0 +1,13 @@
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\bin\Debug\Exercícios11a13.exe.config
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\bin\Debug\Exercícios11a13.exe
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\bin\Debug\Exercícios11a13.pdb
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.csproj.AssemblyReference.cache
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.Frmprincipal.resources
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.Properties.Resources.resources
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.csproj.GenerateResource.cache
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.csproj.CoreCompileInputs.cache
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.exe
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.pdb
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.Frmtabuada.resources
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.Frmtemp.resources
+T:\1DS\CAETANO E GIOVANI\Exercícios11a13\Exercícios11a13\obj\Debug\Exercícios11a13.frmarea.resources
